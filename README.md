@@ -1,2 +1,3 @@
 # SMARTED
 MINOR AND MAJOR PROJECTS
+by Shaik Altaf Hussain
